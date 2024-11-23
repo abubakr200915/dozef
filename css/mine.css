@@ -74,6 +74,7 @@
     margin-bottom: 8px;
     font-weight: 400;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .text1 {
@@ -407,6 +408,7 @@ input{
     .title2 {
         font-size: 52px;
         margin-bottom: 12px;
+        text-decoration: none;
     }
 
     .text1 {
